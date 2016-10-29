@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  dddd
+//  githubTest
 //
 //  Created by Sennotech on 2016/10/29.
 //  Copyright © 2016年 Sennotech. All rights reserved.
@@ -13,9 +13,6 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        
-        
-        self.view.backgroundColor = UIColor.brown;
     }
 
     override func didReceiveMemoryWarning() {
